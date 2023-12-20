@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 hello world!hell git 22222
 hello world!hell git 33333
-hello world!hell git
-hello world!hell git
-hello world!hell git
-hello world!hell git
 hello world!hell git
 hello world!hell git
 hello world!hell git
@@ -21,6 +16,6 @@ hello chg,hello git  hot-fix
 hello chg,hello git  138account
 http://config-3344.com:3344/master
 222111111111
-changed by qq account
+changed by wingman2008
 test ssh operation
 天下武功唯快不破
