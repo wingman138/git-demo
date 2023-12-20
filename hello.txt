@@ -8,20 +8,10 @@ hello world!hell git
 hello world!hell git
 hello world!hell git
 hello world!hell git
-hello world!hell git
-hello world!hell git
-hello world!hell git
-hello world!hell git
 hello world!hell git mast test
 hello world!hell git hot-fix test
 hello chg,hello git
 hello chg,hello git  master
 hello chg,hello git  hot-fix
-hello chg,hello git  138account
-http://config-3344.com:3344/master
 222111111111
-changed by 138
-test ssh operation
 天下武功唯快不破
-*************\
-
