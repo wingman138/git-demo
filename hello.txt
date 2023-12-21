@@ -13,7 +13,6 @@ hello world!hell git hot-fix test
 hello chg,hello git
 hello chg,hello git  master
 hello chg,hello git  hot-fix
-222111111111
 天下武功唯快不破
 138加入新内容
 qq account 加入新内容
